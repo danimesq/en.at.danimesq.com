@@ -1,0 +1,35 @@
+This folder: /media/daniella/B/git/danimesq/Sites/subdomains/at
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./at.danimesq.com
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,52	Inode: 3062061     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-17 14:50:36.167785700 -0300
+Modify: 2024-09-17 14:50:36.167785700 -0300
+Change: 2024-09-17 14:50:37.791691300 -0300
+ Birth: 2024-09-17 14:50:36.167785700 -0300
+IPFS hash: 
+------------------------------
+  File: ./br.at.danimesq.com
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,52	Inode: 3055372     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-17 14:50:29.366186000 -0300
+Modify: 2024-09-17 14:50:29.366186000 -0300
+Change: 2024-09-17 14:50:30.648110000 -0300
+ Birth: 2024-09-17 14:50:29.366186000 -0300
+IPFS hash: 
+------------------------------
+  File: ./en.at.danimesq.com
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,52	Inode: 3048712     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-17 14:50:21.599168700 -0300
+Modify: 2024-09-17 14:50:21.599168700 -0300
+Change: 2024-09-17 14:50:23.192249400 -0300
+ Birth: 2024-09-17 14:50:21.599168700 -0300
+IPFS hash: 
+------------------------------

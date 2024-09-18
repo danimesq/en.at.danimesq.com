@@ -1,0 +1,65 @@
+This folder: /media/daniella/B/git/danimesq/Sites/subdomains/at/'en.at.danimesq.com'
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 128       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,52	Inode: 4462917     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:49:58.704703800 -0300
+Modify: 2024-09-18 12:49:58.734703600 -0300
+Change: 2024-09-18 12:49:58.734703600 -0300
+ Birth: 2024-09-18 12:49:58.704703800 -0300
+IPFS hash: QmYJmAc73BhopS4i4dKHT1KKcmBYWS47LaiT56yGMbLkGE
+------------------------------
+  File: ./.folderstamp1
+  Size: 1389      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 3117702     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:42:30.291753000 -0300
+Modify: 2024-09-17 14:50:47.576131600 -0300
+Change: 2024-09-18 12:41:53.905919300 -0300
+ Birth: 2024-09-17 14:50:47.318146200 -0300
+IPFS hash: QmdMKryUWHAezdD5hbC5pG18k9q6FxLwRfTJsKSvpnVxGw
+------------------------------
+  File: ./.folderstamp2
+  Size: 1069      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 3648093     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:48:43.080049400 -0300
+Modify: 2024-09-18 12:42:30.303753000 -0300
+Change: 2024-09-18 12:42:36.327725400 -0300
+ Birth: 2024-09-18 12:42:30.056754100 -0300
+IPFS hash: QmXNHpxx6Ed1GWjX79NKmEkwbAaFRHfvQtfpgdU8S2zDrz
+------------------------------
+  File: ./.folderstamp3
+  Size: 2027      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 3930195     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:48:42.895050200 -0300
+Modify: 2024-09-18 12:48:43.175048900 -0300
+Change: 2024-09-18 12:48:46.283034700 -0300
+ Birth: 2024-09-18 12:48:42.782050700 -0300
+IPFS hash: QmfV4NzBEHQ7FkGbZL8nsoKm898sWMxrrheRxatbDhYDU1
+------------------------------
+  File: ./.well-known/atproto-did
+  Size: 33        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,52	Inode: 4410750     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:49:15.936899200 -0300
+Modify: 2024-09-18 12:49:15.937899200 -0300
+Change: 2024-09-18 12:49:15.983899000 -0300
+ Birth: 2024-09-18 12:49:15.936899200 -0300
+IPFS hash: QmXDcAnZA2nLuuAGQ44iL6LLBS3rCtbiexUtB99KrjgTaN
+------------------------------
+  File: ./rmv-after-commit
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 3900829     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:49:55.468718500 -0300
+Modify: 2024-09-18 12:49:46.854757900 -0300
+Change: 2024-09-18 12:49:51.732735600 -0300
+ Birth: 2024-09-18 12:49:46.854757900 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------

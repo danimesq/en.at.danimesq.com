@@ -1,0 +1,45 @@
+This folder: /media/daniella/B/git/danimesq/Sites/subdomains/at/'en.at.danimesq.com'
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 128       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,52	Inode: 3930195     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:48:42.782050700 -0300
+Modify: 2024-09-18 12:48:42.818050600 -0300
+Change: 2024-09-18 12:48:42.818050600 -0300
+ Birth: 2024-09-18 12:48:42.782050700 -0300
+IPFS hash: QmYJmAc73BhopS4i4dKHT1KKcmBYWS47LaiT56yGMbLkGE
+------------------------------
+  File: ./.folderstamp1
+  Size: 1389      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 3117702     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:42:30.291753000 -0300
+Modify: 2024-09-17 14:50:47.576131600 -0300
+Change: 2024-09-18 12:41:53.905919300 -0300
+ Birth: 2024-09-17 14:50:47.318146200 -0300
+IPFS hash: QmdMKryUWHAezdD5hbC5pG18k9q6FxLwRfTJsKSvpnVxGw
+------------------------------
+  File: ./.folderstamp2
+  Size: 1069      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 3648093     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:42:30.191753500 -0300
+Modify: 2024-09-18 12:42:30.303753000 -0300
+Change: 2024-09-18 12:42:36.327725400 -0300
+ Birth: 2024-09-18 12:42:30.056754100 -0300
+IPFS hash: QmXNHpxx6Ed1GWjX79NKmEkwbAaFRHfvQtfpgdU8S2zDrz
+------------------------------
+  File: ./.well-known/atproto-did
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 3724172     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-09-18 12:48:39.070067700 -0300
+Modify: 2024-09-18 12:48:14.202181300 -0300
+Change: 2024-09-18 12:48:35.465084200 -0300
+ Birth: 2024-09-18 12:48:14.202181300 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------

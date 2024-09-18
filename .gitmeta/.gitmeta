@@ -1,12 +1,12 @@
-commit QmUD8Cv4Ha7bmMB9XdHQdryKLNbDYsPHrUvQRwhzDvnrUa
+commit QmfM5MvzMK9wmQcsRpSTBcKsvKhvQqvs5M3hsCiTU2dzpy
 Branch: main
-Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 61a7371951d4a13d4569832c09253cd09b103d474ee1a98827ec9be46be78dae63530d1a37668cbd9165fc940f394f40d30b15d1d6931e7daefe21d5cbbb793100
+Signed-off by:  (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: f3f67039e0c6c8ce65625c1b53e66255804f208138a42b4eeeea7c8b4e4d52f13a965891601fce45f2571100cf29e9c1ca2f9943c31ffad8222ac732db9ecab300
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmYcoyHjdse4nGE9y7Ci3BpPG4RoPQaViNTKnGbJukxYVA
-Commit CID if containing only file hashes: QmSEr1HAS1UCP3s2dfEV3RFkq1uiv6M39pW5iYKGmW8Kqr
+Commit CID if including git's SHA1: QmYjc2UTt6RBjwJD4FaLT4vtFuq1TPuCyJLvuQqCzSGE97
+Commit CID if containing only file hashes: 
 
 ------------------------------
 
@@ -17,7 +17,3 @@ Remote URL: https://github.com/danimesq/en.at.danimesq.com.git
 
 ------------------------------
 
-chown -h 1000:1000 'index.html'
-chmod 0755 'index.html'
-/usr/bin/touch -hcmd "2024-09-18 14:26:47.3685660000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-09-18 14:27:09.6191652000 -0300" 'index.html'
